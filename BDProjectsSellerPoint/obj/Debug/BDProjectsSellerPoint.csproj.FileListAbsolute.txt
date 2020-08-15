@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\BDProjectsSellerPoint.exe.config
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\BDProjectsSellerPoint.exe
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\BDProjectsSellerPoint.pdb
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.frmLogin.resources
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.frmMain.resources
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.Properties.Resources.resources
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.exe
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.pdb
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\EntityFramework.dll
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\EntityFramework.xml
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.csproj.CopyComplete
+C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.Migrations.init.resources
