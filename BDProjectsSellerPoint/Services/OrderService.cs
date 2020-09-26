@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace BDProjectsSellerPoint.Services
 {
-    public class Order
+    public class OrderService
     {
         List<Product> products { get;}
 
-        public Order()
+        public OrderService()
         {
             products = new List<Product>();          
         }

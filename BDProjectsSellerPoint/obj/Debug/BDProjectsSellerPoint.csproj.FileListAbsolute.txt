@@ -14,4 +14,3 @@ C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debu
 C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\EntityFramework.xml
 C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.csproj.CopyComplete
-C:\Users\gabri\source\repos\BDProjectsSellerPoint\BDProjectsSellerPoint\obj\Debug\BDProjectsSellerPoint.Migrations.init.resources
